@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string-array name="opcoes">
+        <item>Acre</item>
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+    </string-array>
+</resources>
